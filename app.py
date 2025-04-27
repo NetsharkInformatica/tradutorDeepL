@@ -2,7 +2,7 @@ import requests
 
 url="https://api-free.deepl.com/v2/translate"
 
-api_key="8d807a93-ed9a-48f7-8b76-91f8c41a9035:fx"
+api_key="semchave"
 
 parametros={
     "auth_key":api_key,
