@@ -43,7 +43,7 @@ class DeepLTranslator(QMainWindow):
         
         # Configurações da API
         self.api_url = "https://api-free.deepl.com/v2/translate"
-        self.api_key = "8d807a93-ed9a-48f7-8b76-91f8c41a9035:fx"  # Substitua pela sua chave real
+        self.api_key = "minha chave aqui" # Substitua pela sua chave real
         
         # Inicializar UI
         self.init_ui()

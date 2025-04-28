@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Configurações da API DeepL
 DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
-DEEPL_API_KEY = "8d807a93-ed9a-48f7-8b76-91f8c41a9035:fx"  # Substitua pela sua chave real
+DEEPL_API_KEY = "minha chave aqui"  # Substitua pela sua chave real
 
 # Idiomas suportados pela DeepL (versão free)
 LANGUAGES = {
